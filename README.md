@@ -1,9 +1,3 @@
-# AI Hospital: Interactive Evaluation and Collaboration of Large Language Models as Intern Doctors for Clinical Diagnosis [[Paper]](https://arxiv.org/abs/2402.09742)
-
-![Demonstration of AI Hospital](assets/AI_Hospital_en.png)
-
-Welcome to the repository for our research paper, "AI Hospital: Interactive Evaluation and Collaboration of Large Language Models as Intern Doctors for Clinical Diagnosis." This repository hosts our primary simulation module tailored for various medical roles involved in the study.
-
 ## Environment Setup
 To set up your environment, run the following command:
 ```
