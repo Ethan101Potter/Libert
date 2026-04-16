@@ -40,9 +40,6 @@ To develop your intern doctor agent, base your implementation on the [Doctor](sr
 #### Step 2: Registration
 Register your model in the [initialization file](src/agents/__init__.py) within the agents directory.
 
-## Collaborative Diagnosis with LLMs: Focus on Dispute Resolution
-![Collaboration Framework](assets/collaboration_framework_en.png)
-
 ### Replication Instructions
 
 Navigate to the source directory:
